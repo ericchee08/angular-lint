@@ -1,4 +1,6 @@
 # AngularLint
+![image](https://github.com/user-attachments/assets/f5e97178-7ec9-411e-be43-e95882f73641)
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
 
